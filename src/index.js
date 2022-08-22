@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// react-loader-spinner/dist/laoder/css/react-spinner-loader.css'
+// import 'react-loader-spinner/dist/loader/'
+import { Audio } from  'react-loader-spinner'
 import { BrowserRouter } from 'react-router-dom';
 import { ThemeProvider } from 'styled-components';
 import { preset } from '@rebass/preset';
